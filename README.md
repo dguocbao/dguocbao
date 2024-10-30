@@ -2,6 +2,7 @@
 - 👀 Mình quan tâm đến thiết kế giao diện người dùng (UX/UI) và phát triển website frontend, phát triển Java
 - 🌱 Hiện tại, mình đang học React và Node.js
 - 💞️ Mình mong muốn hợp tác với những ai đáng tin cậy và có khả năng hợp tác lâu dài
+- ✨ Hy vọng ra trường có việc làm ổn định và được làm ở một môi trường đúng với khả năng của mình 
 - 📫 Liên hệ với mình qua số 0939941706 (Zalo.vn)
 
 
