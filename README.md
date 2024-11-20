@@ -19,6 +19,7 @@
 ⚡ Sở thích:
 - Du lịch
 - Chơi cầu lông, bóng chuyền(không chuyên)
+- Thư giãn
 
 
 <!---
