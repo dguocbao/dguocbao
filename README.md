@@ -5,7 +5,7 @@
 - ✨ Hy vọng ra trường có việc làm ổn định và được làm ở một môi trường đúng và phù hợp nhất với khả năng của mình 
 - 📫 Liên hệ với mình qua số 0939941706 (Zalo-For Work), https://www.facebook.com/profile.php?id=100026227597256 (Facebook-For Social)
 
-🚀 Ngôn ngữ đã từng học:
+🚀 Ngôn ngữ và công nghệ đã từng học:
 - Frontend: HTML, CSS, JavaScript, React
 - Backend: Node.js, 
 - Ngôn ngữ: C#, Java, Java(Mobile-Android)
